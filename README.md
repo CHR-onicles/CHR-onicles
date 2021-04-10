@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br />
-I'm a student, reader, programmer and a huge fan of classical music 🎼.
+<br></br>
+### I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.
 
 - 🔭 I'm currently working on:
     - [A medical data entry app][med] 🏥 
@@ -25,6 +24,7 @@ I'm a student, reader, programmer and a huge fan of classical music 🎼.
 
 
 - 🌱 I’m currently learning: Web dev and database management systems
+- 🏁 I'm looking forward to learn: `C# + .NET`, `Flutter + Dart`, and `AI + Machine Learning`
 - 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide
 - 💬 Ask me about: Anything Python, GUI or classical music related 😎    
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
