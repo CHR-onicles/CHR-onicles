@@ -3,10 +3,9 @@
 <img src="images/hi_img.jpg"> <!-- DONT USE THIS DURING PUBLISHING...use the one above -->
 
 <!--
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,15 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
 I'm a student, reader, programmer and a huge fan of classical music 🎼.
 <br />
-### I'm currently working on:
+
+- 🔭 I'm currently working on:
     - [A medical data entry app][med] 🏥 
     - [Windows photo downloader][spotty] 📷
     - [Clones of popular apps/sites][clones] 🎭
+    
+    
+- ⚡ Fun fact: I'm working on being ambidextrous!😅
 
-### Technologies:
-- C++, Python, SQLite, PyQt5/PySide2
+- 💻 Technologies: C++, Python, SQLite, PyQt5/PySide2
 
 <!-- Logos-->
 ### Connect with me:
