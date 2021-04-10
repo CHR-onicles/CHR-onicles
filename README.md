@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
->
-> 
 <a href="https://www.linkedin.com/in/divine-a-522b791ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="divine-a-522b791ab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/divine-a-522b791ab?trk=profile-badge">Divine A.</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-a-522b791ab/)](https://www.linkedin.com/in/divine-a-522b791ab/)
               
