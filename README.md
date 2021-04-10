@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a student, reader, programmer and a huge fan of classical music 🎼.
+<br />
+### I'm currently working on:
+    - [A medical data entry app][med] 🏥 
+    - [Windows photo downloader][spotty] 📷
+    - [Clones of popular apps/sites][clones] 🎭
 
 ### Technologies:
 - C++, Python, SQLite, PyQt5/PySide2
@@ -26,5 +32,9 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-a-522b791ab/)](https://www.linkedin.com/in/divine-a-522b791ab/)
 [![Gmail Badge](https://img.shields.io/badge/-tpandivine48@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpandivine48@gmail.com)](mailto:tpandivine48@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-CHR-onicles-d14836?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/OniclesChr)](https://twitter.com/OniclesChr)
               
+
+<!-- Links -->
+[med]: https://github.com/CHR-onicles/Medical_Bills_Program
+[spotty]: https://github.com/CHR-onicles/SpotlightProgramGUI
+[clones]: https://github.com/CHR-onicles/Clone_Wars
