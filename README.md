@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 
 <br />
 I'm a student, reader, programmer and a huge fan of classical music 🎼.
-<br />
 
 - 🔭 I'm currently working on:
     - [A medical data entry app][med] 🏥 
     - [Windows photo downloader][spotty] 📷
     - [Clones of popular apps/sites][clones] 🎭
-    
-    
-- ⚡ Fun fact: I'm working on being ambidextrous!😅
 
-- 💻 Technologies: C++, Python, SQLite, PyQt5/PySide2
+
+- 🌱 I’m currently learning: Web dev and database management systems
+- 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide
+- 💬 Ask me about: Anything Python, GUI or classical music related 😎    
+- ⚡ Fun fact: I'm working on being ambidextrous! 😅
+
 
 <!-- Logos-->
 ### Connect with me:
