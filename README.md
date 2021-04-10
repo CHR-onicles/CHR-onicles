@@ -1,6 +1,4 @@
-<!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/images/hi_img.jpg)
--->
-<img src="images/hi_img.jpg"> <!-- DONT USE THIS DURING PUBLISHING...use the one above -->
+![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg)
 
 <!--
 Here are some ideas to get you started:
