@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br></br>
 ### I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.
 
 - 🔭 I'm currently working on:
