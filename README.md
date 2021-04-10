@@ -1,4 +1,4 @@
-### Hi, I'm Dana
+![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/images/hi_img.jpg)
 
 <!--
 
