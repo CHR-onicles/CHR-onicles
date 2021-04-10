@@ -1,6 +1,6 @@
 <!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/images/hi_img.jpg)
 -->
-<img src="images/hi_img.jpg" height="500">
+<img src="images/hi_img.jpg">
 
 <!--
 
