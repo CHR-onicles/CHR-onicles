@@ -1,4 +1,4 @@
-<1-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg) 
+<!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg) 
 -->
 ![Header-image](images/hi_img.jpg)
 
