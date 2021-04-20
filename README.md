@@ -22,10 +22,10 @@ Here are some ideas to get you started:
     - [Clones of popular apps/sites][clones] 🎭
 
 
-- 🌱 I’m currently learning: Web dev and database management systems
-- 🏁 I'm looking forward to learning: `C# + .NET`, `Flutter + Dart`, and `AI + Machine Learning`
-- 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide
-- 💬 Ask me about: Anything Python, GUI or classical music related 😎    
+- 🌱 I’m currently learning: HTML, CSS, JS and Database Management with MySQL.
+- 🏁 I'm looking forward to learning: `C# + .NET`, `Flutter + Dart`, and `AI + Machine Learning`.
+- 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide.
+- 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM), 
   [Vivaldi - Summer🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
