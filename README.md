@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM), 
-  [Vivaldi - Summer🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
+  [Vivaldi - Summer🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg), 
+  [Franz Liszt - La Campanella](https://www.youtube.com/watch?v=H1Dvg2MxQn8)
 
 
 <!-- Logos-->
