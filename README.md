@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     - [Clones of popular apps/sites][clones] 🎭
 
 
-- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `React` and Database Management with `MySQL`.
+- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `ReactJS` and Database Management with `MySQL`.
 - 🏁 I'm looking forward to learning: `C# + .NET`, `Flutter + Dart`, `React Native` and `AI + Machine Learning`.
 - 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide.
 - 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
