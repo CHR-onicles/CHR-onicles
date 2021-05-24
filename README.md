@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.
+<h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
 - 🔭 I'm currently working on:
     - [A medical data entry app][med] 🏥 
@@ -33,11 +33,21 @@ Here are some ideas to get you started:
 
 
 <!-- Logos-->
-### Connect with me:
 <!-- <a href="https://www.linkedin.com/in/divine-a-522b791ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
-[![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-a-522b791ab/)](https://www.linkedin.com/in/divine-a-522b791ab/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/divine-a-522b791ab/)](https://linkedin.com/in/divine-a-522b791ab/)
 [![Gmail Badge](https://img.shields.io/badge/-tpandivine48@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpandivine48@gmail.com)](mailto:tpandivine48@gmail.com)
+-->
+
+<h3 align="left">Lets talk! :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/divine-a-522b791ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:tpandivine48@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/475709262883061762" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+</p>
               
 
 <!-- Links -->
