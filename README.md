@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-tpandivine48@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpandivine48@gmail.com)](mailto:tpandivine48@gmail.com)
 -->
 
-<h3 align="left">My Tech Stack:</h3>
+<h3 align="left">⚙ My Tech Stack:</h3>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Lets talk! :</h3>
+<h3 align="left">🗨 Lets talk! :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divine-a-522b791ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:tpandivine48@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
