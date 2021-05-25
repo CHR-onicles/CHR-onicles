@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `ReactJS` and Database Management with `MySQL`.
 - 🏁 I'm looking forward to learning: `C# + .NET`, `Flutter + Dart`, `React Native` and `Flask + Django`.
-- 👯 I’m looking to collaborate on: GUI apps using PyQT/PySide.
+- 👯 I’m looking to collaborate on: GUI apps using [PyQT/PySide](https://riverbankcomputing.com/software/pyqt).
 - 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen:  [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM), 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">🗨 Lets talk! :</h3>
+<h3 align="left">🗨 Lets chat! :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divine-a-522b791ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:tpandivine48@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
