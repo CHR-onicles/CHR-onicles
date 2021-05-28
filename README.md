@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on:
     - [A medical data entry app][med] 🏥 
     - [Windows photo downloader][spotty] 📷
-    - [Clones of popular apps/sites][clones] 🎭
+    - [A Caclulator app][calc] 🧮
 
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `ReactJS` and Database Management with `MySQL`.
@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 <!-- Links -->
 [med]: https://github.com/CHR-onicles/Medical_Bills_Program
 [spotty]: https://github.com/CHR-onicles/SpotlightProgramGUI
-[clones]: https://github.com/CHR-onicles/Clone_Wars
+[calc]: https://github.com/CHR-onicles/Calculator_App
