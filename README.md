@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/divine-a-522b791ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:tpandivine48@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/475709262883061762" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://twitter.com/OniclesChr?s=09chr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
               
 
