@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="CSS" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="Javascript" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="ReactJS" height="30" width="40" />
+
+[comment]: <> (<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="ReactJS" height="30" width="40" />)
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Github" height="30" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="VisualStudioCode" height="30" width="40" />
