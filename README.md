@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: column;">
     <div style="width: 500px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=CHR-onicles&show_icons=true&locale=en" alt="CHR-onicles Github stats" /></div>
     <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CHR-onicles&" alt="CHR-onicles github streak" /></div>
-    <div style="width: 495px;box-sizing: box-border;"><img style="width: 100%;object-fit: cover;margin-top:10px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHR-onicles&show_icons=true&locale=en&layout=compact" alt="CHR-onicles top languages" /></div>
+    <!-- <div style="width: 495px;box-sizing: box-border;"><img style="width: 100%;object-fit: cover;margin-top:10px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHR-onicles&show_icons=true&locale=en&layout=compact" alt="CHR-onicles top languages" /></div> -->
 
 </div>
 
