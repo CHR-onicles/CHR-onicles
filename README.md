@@ -1,5 +1,7 @@
 <!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg) 
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=0e75b6&style=flat" alt="CHR-onicles" /> </p>
+
 ![Header-image](images/hi_img.jpg)
 
 <!--
@@ -63,6 +65,17 @@ Here are some ideas to get you started:
 <a href="https://discordapp.com/users/475709262883061762" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="40" /></a>
 <a href="https://twitter.com/OniclesChr?s=09chr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
+
+<br />
+<hr />
+<div style="display: flex; flex-direction: column;">
+    <div style="width: 500px;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=CHR-onicles&show_icons=true&locale=en" alt="CHR-onicles Github stats" /></div>
+    <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CHR-onicles&" alt="CHR-onicles github streak" /></div>
+    <div style="width: 495px;box-sizing: box-border;"><img style="width: 100%;object-fit: cover;margin-top:10px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHR-onicles&show_icons=true&locale=en&layout=compact" alt="CHR-onicles top languages" /></div>
+
+</div>
+
+
               
 
 <!-- Links -->
