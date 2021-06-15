@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/divine-a-522b791ab/)](https://linkedin.com/in/divine-a-522b791ab/)
 [![Gmail Badge](https://img.shields.io/badge/-tpandivine48@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpandivine48@gmail.com)](mailto:tpandivine48@gmail.com)
 -->
+<hr />
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 <p align="left">
