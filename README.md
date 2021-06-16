@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `ReactJS` and Database Management with `MySQL`.
-- 🏁 I'm looking forward to learning: `C# + .NET`, `Flutter + Dart`, `React Native` and `Flask + Django`.
+- 🏁 I'm looking forward to learning: `ElectronJS`, `Flask`, `Django`, and `NodeJs`.
 - 👯 I’m looking to collaborate on: GUI apps using [PyQT/PySide](https://riverbankcomputing.com/software/pyqt).
 - 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
