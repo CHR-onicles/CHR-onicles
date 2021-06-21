@@ -1,4 +1,4 @@
-<!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg) 
+<!-- ![Header image](https://raw.githubusercontent.com/CHR-onicles/CHR-onicles/main/images/hi_img.jpg)
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=0e75b6&style=flat" alt="CHR-onicles" /> </p>
 
@@ -19,20 +19,19 @@ Here are some ideas to get you started:
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
 - 🔭 I'm currently working on:
-    - [A medical data entry app][med] 🏥 
-    - [Windows photo downloader][spotty] 📷
-    - [A Caclulator app][calc] 🧮
 
+  - [A medical data entry app][med] 🏥
+  - [Windows photo downloader][spotty] 📷
+  - [A Calculator app][calc] 🧮
 
-- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `ReactJS` and Database Management with `MySQL`.
-- 🏁 I'm looking forward to learning: `ElectronJS`, `Flask`, `Django`, and `NodeJs`.
+- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `Django` and Database Management with `MySQL`.
+- 🏁 I'm looking forward to learning: `ElectronJS` and `NodeJs`.
 - 👯 I’m looking to collaborate on: GUI apps using [PyQT/PySide](https://riverbankcomputing.com/software/pyqt).
-- 💬 Ask me about: Anything Python, GUI or classical music related. 😎    
+- 💬 Ask me about: Anything Python, GUI or classical music related. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
-- 🎧 Get a good listen:  [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM), 
-                        [Vivaldi - Summer🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg), 
-                        [Franz Liszt - La Campanella🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8)
-
+- 🎧 Get a good listen: [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM),
+  [Vivaldi - Summer🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg),
+  [Franz Liszt - La Campanella🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8)
 
 <!-- Logos-->
 <!-- <a href="https://www.linkedin.com/in/divine-a-522b791ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -63,7 +62,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> --> 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> --> 
-</p>  
+</p>
 
 <h3 align="left">🗨 Lets chat! :</h3>
 <p align="left">
@@ -82,10 +81,8 @@ Here are some ideas to get you started:
 
 </div>
 
-
-              
-
 <!-- Links -->
+
 [med]: https://github.com/CHR-onicles/Medical_Bills_Program
 [spotty]: https://github.com/CHR-onicles/SpotlightProgramGUI
 [calc]: https://github.com/CHR-onicles/Calculator_App
