@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `Django` and Database Management with `MySQL`.
 - 🏁 I'm looking forward to learning: `ElectronJS` and `NodeJs`.
-- 👯 I’m looking to collaborate on: GUI apps using [PyQT/PySide](https://riverbankcomputing.com/software/pyqt).
+- 👯 I’m looking to collaborate on: GUI apps using [`PyQT/PySide`](https://riverbankcomputing.com/software/pyqt) and web apps using `Django`.
 - 💬 Ask me about: Anything Python, GUI or classical music related. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Scott Joplin - Maple Leaf🎵](https://www.youtube.com/watch?v=rBInnwV21DM),
