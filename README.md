@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
   - [A medical data entry app][med] 🏥
   - [Windows photo downloader][spotty] 📷
-  - [A Calculator app][calc] 🧮
 
 - 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `Django` and Database Management with `MySQL`.
 - 🏁 I'm looking forward to learning: `ElectronJS` and `NodeJs`.
