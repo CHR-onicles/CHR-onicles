@@ -63,13 +63,15 @@ Here are some ideas to get you started:
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> --> 
 </p>
 
-<h3 align="left">🗨 Lets chat! :</h3>
+<br><br>
+<h3>🗨 Lets chat! :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divine-a-522b791ab" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"  style="padding-left:10px;"/></a>
 <a href="mailto:tpandivine48@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40"  style="padding-left:10px;"/></a>
 <a href="https://discordapp.com/users/475709262883061762" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="40" style="padding-left:10px;" /></a>
 <a href="https://twitter.com/OniclesChr?s=09chr" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40"  style="padding-left:10px;"/></a>
 </p>
+
 
 <br />
 <hr />
