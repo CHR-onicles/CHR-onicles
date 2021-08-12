@@ -63,7 +63,7 @@
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=CHR-onicles&theme=dracula" /></a>
     <br />
-    <a><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHR-onicles&hide_title=false&layout=compact&theme=dracula&count_private=true" /></a>
+    <!-- <a><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHR-onicles&hide_title=false&layout=compact&theme=dracula&count_private=true" /></a> -->
 </div>
 
 <!-- <img width="500" src="https://metrics.lecoq.io/CHR-onicles" alt="Github Metrics"> -->
