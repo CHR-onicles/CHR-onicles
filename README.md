@@ -51,7 +51,7 @@
 
 <h3>🗨 Lets chat! :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divine-a-522b791ab" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="25" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/divineanum" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="25" /></a>&nbsp;&nbsp;
 <a href="mailto:tpandivine48@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="25" /></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/475709262883061762" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/OniclesChr?s=09chr" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="25" /></a>&nbsp;&nbsp;
