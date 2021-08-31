@@ -12,14 +12,15 @@
   - [Windows photo downloader][spotty] 📷
   - [Frontend Mentor Challenges][FEM]💪🏽
 
-- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, `Django` and Database Management with `MySQL`.
+- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, and `ReactJS`.
 - 🏁 I'm looking forward to learning: `ElectronJS` and `NodeJs`.
-- 👯 I’m looking to collaborate on: GUI apps using [`PyQT/PySide`](https://riverbankcomputing.com/software/pyqt) and web apps using `Django`.
+- 👯 I’m looking to collaborate on:  web apps mostly.
 - 💬 Ask me about: Anything Python, web or classical music related. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
-  [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg),
-  [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8)
+  [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
+  [Tchaikovsky🎵](https://www.youtube.com/watch?v=sdduPpnqre4),
+  [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
 
 <!-- Logos-->
 <!-- <a href="https://www.linkedin.com/in/divine-a-522b791ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -72,5 +73,4 @@
 
 [med]: https://github.com/CHR-onicles/Medical_Bills_Program
 [spotty]: https://github.com/CHR-onicles/SpotlightProgramGUI
-[calc]: https://github.com/CHR-onicles/Calculator_App
 [FEM]: https://github.com/CHR-onicles/FEM-sunnyside-agency-landing-page
