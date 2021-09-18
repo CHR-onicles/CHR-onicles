@@ -8,13 +8,13 @@
 
 - 🔭 I'm currently working on:
 
+  - [An E-commerce Site][E-commerce]🛒
   - [A medical data entry app][med] 🏥
   - [Windows photo downloader][spotty] 📷
-  - [Frontend Mentor Challenges][FEM]💪🏽
 
-- 🌱 I’m currently learning: `HTML`, `CSS`, `JS`, and `ReactJS`.
-- 🏁 I'm looking forward to learning: `ElectronJS` and `NodeJs`.
-- 👯 I’m looking to collaborate on:  web apps mostly.
+- 🌱 I’m currently learning: `Sass`, `NodeJS`, and `ReactJS`.
+- 🏁 I'm looking forward to learning: `ElectronJS`.
+- 👯 I’m looking to collaborate on:  web apps and sites.
 - 💬 Ask me about: Anything Python, web or classical music related. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
@@ -74,4 +74,4 @@
 
 [med]: https://github.com/CHR-onicles/Medical_Bills_Program
 [spotty]: https://github.com/CHR-onicles/SpotlightProgramGUI
-[FEM]: https://github.com/CHR-onicles/FEM-sunnyside-agency-landing-page
+[E-commerce]: https://github.com/CHR-onicles/CHR-mart
