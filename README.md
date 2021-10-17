@@ -12,10 +12,10 @@
   - [A medical data entry app][med] 🏥
   - [Windows photo downloader][spotty] 📷
 
-- 🌱 I’m currently learning: `Sass`, `NodeJS`, and `ReactJS`.
+- 🌱 I’m currently learning: `NodeJS`, and `ReactJS`.
 - 🏁 I'm looking forward to learning: `ElectronJS`.
 - 👯 I’m looking to collaborate on:  web apps and sites.
-- 💬 Ask me about: Anything Python, web or classical music related. 😎
+- 💬 Ask me about:  Python, web or classical music. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Get a good listen: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
   [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
