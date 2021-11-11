@@ -13,7 +13,7 @@
   - [Windows photo downloader][spotty] 📷
 
 - 🌱 I’m currently learning: `NodeJS`, and `ReactJS`.
-- 🏁 I'm looking forward to learning: `ElectronJS`.
+- 🏁 I'm looking forward to learning: `ElectronJS` and `React Native`.
 - 👯 I’m looking to collaborate on:  web apps and sites.
 - 💬 Ask me about:  Python, web or classical music. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
