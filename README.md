@@ -7,8 +7,6 @@
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
 - 🔭 I'm currently working on:
-
-  - [An E-commerce Site][E-commerce]🛒
   - [A medical data entry app][med] 🏥
   - [Windows photo downloader][spotty] 📷
 
