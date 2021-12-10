@@ -7,10 +7,9 @@
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
 - 🔭 I'm currently working on:
-  - [A medical data entry app][med] 🏥
-  - [Windows photo downloader][spotty] 📷
+  - A secret project 🤫
 
-- 🌱 I’m currently learning: `NodeJS`, and `ReactJS`.
+- 🌱 I’m currently learning: `ReactJS`, `Styled Components`.
 - 🏁 I'm looking forward to learning: `ElectronJS` and `React Native`.
 - 👯 I’m looking to collaborate on:  web apps and sites.
 - 💬 Ask me about:  Python, web or classical music. 😎
