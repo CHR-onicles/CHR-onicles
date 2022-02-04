@@ -1,11 +1,10 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=0e75b6&style=flat" alt="CHR-onicles" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
 
 ![Header-image](images/Divine's-cover.jpg)
 
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
-- 🔭 I'm currently working on:
-  -  Multiple secret projects 🤫
+- 🔭 I'm currently working on:  multiple secret projects 🤫
 
 - 🌱 I’m currently learning: how to make cool animations with `GSAP`.
 - 🏁 I'm looking forward to learning: `ElectronJS` and `React Native`.
@@ -18,11 +17,6 @@
   [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
 
 <!-- Logos-->
-<!-- <a href="https://www.linkedin.com/in/divine-a-522b791ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-DivineAnum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://linkedin.com/in/divine-a-522b791ab/)](https://linkedin.com/in/divine-a-522b791ab/)
-[![Gmail Badge](https://img.shields.io/badge/-tpandivine48@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tpandivine48@gmail.com)](mailto:tpandivine48@gmail.com)
--->
 <hr />
 
 <h3 align="left">⚙ My Tech Stack:</h3>
@@ -43,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
 </p>
 
-<h3>🗨 Lets chat! :</h3>
+<h3>🗨 Lets talk! :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divineanum" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" /></a>&nbsp;&nbsp;
 <a href="mailto:tpandivine48@gmail.com" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="25" /></a>&nbsp;&nbsp;
