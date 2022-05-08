@@ -4,12 +4,12 @@
 
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
-- 🔭 I'm currently working on:  multiple secret projects 🤫
+- 🔭 I'm currently working on:  freelance and personal side projects 😋
 
 - 🌱 I’m currently learning: how to make cool animations with `GSAP`.
-- 🏁 I'm looking forward to learning: `ElectronJS` and `React Native`.
+- 🏁 I'm looking forward to learning: `ElectronJS`.
 - 👯 I’m looking to collaborate on:  web apps and sites.
-- 💬 Ask me about:  Python, web or classical music. 😎
+- 💬 Ask me about:  Python, frontend or classical music. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
 - 🎧 Bless your ears: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
   [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
@@ -25,13 +25,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp;
 <img src="images/Qt.png" alt="PyQt" width="30" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="SQLite" width="30" >&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp; 
 <img src="./images/SC-logo.jpg" alt="Styled Components" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" >&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" >
