@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on: freelance and personal side projects 😋
 
-- 🌱 I’m currently learning: how to make cool animations with `GSAP`.
+- 🌱 I’m currently learning: how to make cool animations with `GSAP` and `Framer motion`.
 - 🏁 I'm looking forward to learning: `ElectronJS`.
 - 👯 I’m looking to collaborate on: web apps and sites.
 - 💬 Ask me about: Python, frontend or classical music. 😎
