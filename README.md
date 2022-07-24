@@ -20,7 +20,7 @@
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,react,nodejs,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,typescript,react,nodejs,vscode&theme=dark)](https://skillicons.dev)
 
 <h3>🗨 Lets connect :</h3>
 
@@ -35,7 +35,6 @@
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=CHR-onicles&theme=dracula" /></a>
     <br />
-    <!-- <a><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHR-onicles&hide_title=false&layout=compact&theme=dracula&count_private=true" /></a> -->
 </div>
 
 <!-- ![Split-section](images/split%20section.png)
