@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
 
-![Header-image](images/Divine's-cover.jpg)
+![Header-image](images/cover.jpg)
 
 <h3 align="left">I'm a student, reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
