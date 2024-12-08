@@ -19,7 +19,7 @@
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,typescript,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,typescript,react,nodejs,graphql,remix&theme=dark)](https://skillicons.dev)
 
 <h3>🗨 Lets connect :</h3>
 
