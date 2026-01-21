@@ -4,13 +4,13 @@
 
 <h3 align="left">I'm a reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
-- 🔭 I'm currently freelancing 😋
+- 🔭 I'm currently looking for new opportunities 😋
 - 🌱 I’m learning: how to make cool animations with `GSAP`.
 - 🏁 I'm looking forward to learning: `ElectronJS`.
 - 👯 I’m looking to collaborate on: web apps and sites.
 - 💬 Ask me about: Frontend or classical music. 😎
 - ⚡ Fun fact: I'm working on being ambidextrous! 😅
-- 🎧 Listened to these yet?: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
+- 🎧 Classical Music: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
   [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
   [Tchaikovsky🎵](https://www.youtube.com/watch?v=sdduPpnqre4),
   [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
@@ -29,12 +29,12 @@
 
 ![Split-section](images/split%20section.png)
 
-<div style="display: flex; flex-direction: column;">
+<!-- <div style="display: flex; flex-direction: column;">
     <a><img height=200 src="https://github-readme-stats.vercel.app/api?username=CHR-onicles&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="CHR-onicles Github stats/"></a>
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=CHR-onicles&theme=dracula" /></a>
     <br />
-</div>
+</div> -->
 
 <!-- ![Split-section](images/split%20section.png)
 
