@@ -2,16 +2,14 @@
 
 <!-- ![Header-image](images/cover.jpg) -->
 
-<h3 align="left">I'm a reader, gamer, developer and a huge fan of classical music 🎼.</h3>
+<h3 align="left">I'm a learning machine, gamer, developer and a classical music enthusiast🎼.</h3>
 
-- 🔭 I'm currently looking for new opportunities 😋
+<!-- - 🏁 I'm looking forward to learning: `ElectronJS`. -->
+- 🔭 I'm currently open to full-time opportunities 😋
 - 🌱 I’m learning: how to make cool animations with `GSAP`.
-- 🏁 I'm looking forward to learning: `ElectronJS`.
-- 👯 I’m looking to collaborate on: web apps and sites.
-- 💬 Ask me about: Frontend or classical music. 😎
-- ⚡ Fun fact: I'm working on being ambidextrous! 😅
-- 🎧 Classical Music: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
-  [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
+- ⚡ Fun fact: I love Jesus! 💖
+- 🎧 Some of my favs: [Beethoven 🎵](https://youtu.be/sbTVZMJ9Z2I),
+  [Einaudi 🎵](https://youtu.be/4VR-6AS0-l4),
   [Tchaikovsky🎵](https://www.youtube.com/watch?v=sdduPpnqre4),
   [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
 
@@ -19,15 +17,16 @@
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,typescript,react,nodejs,graphql,remix&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,remix,html,sass,styledcomponents,tailwind,js,typescript,graphql,mongodb,mysql,supabase,figma,vite,vitest&theme=dark
+)](https://skillicons.dev)
 
+![Split-section](images/split%20section.png)
 <h3>🗨 Lets connect :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/divineanum)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/OniclesChr?s=09chr)
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]("https://discordapp.com/users/475709262883061762)
 
-![Split-section](images/split%20section.png)
 
 <!-- <div style="display: flex; flex-direction: column;">
     <a><img height=200 src="https://github-readme-stats.vercel.app/api?username=CHR-onicles&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="CHR-onicles Github stats/"></a>
