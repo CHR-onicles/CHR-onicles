@@ -6,9 +6,9 @@
 
 <!-- - 🏁 I'm looking forward to learning: `ElectronJS`. -->
 - 🔭 I'm currently: open to full-time opportunities 😋
-- 🌱 I’m learning: how to make cool animations with `GSAP`.
+- 🌱 I’m learning: how to harness AI to work smarter
 - ⚡ Fun fact: I love Jesus! 💖
-- 🎧 Some of my favs: [Debussy 🎵](https://youtu.be/WNcsUNKlAKw),
+- 🎧: [Debussy 🎵](https://youtu.be/WNcsUNKlAKw),
   [Beethoven 🎵](https://youtu.be/sbTVZMJ9Z2I),
   [Einaudi 🎵](https://youtu.be/4VR-6AS0-l4),
   [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
@@ -24,8 +24,8 @@
 <h3>🗨 Lets connect :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/divineanum)
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/OniclesChr?s=09chr)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]("https://discordapp.com/users/475709262883061762)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/_div.ann)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/_div_ann)
 
 
 <!-- <div style="display: flex; flex-direction: column;">
